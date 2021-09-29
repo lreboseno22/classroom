@@ -3,7 +3,7 @@ const students = [
   'Annecie',
   'Elijah',
   'Noel',
-  'Liam',
+  'Liam Reboseno',
   'Jared',
   'Zohaib',
   'Leo',
